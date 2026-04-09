@@ -35,10 +35,9 @@ blog_post_management_system_backend/
 │ ├── controller/ # REST Controllers
 │ ├── service/ # Business Logic
 │ ├── repository/ # Database Layer
-│ ├── entity/ # Entities / Models
+│ ├── model/ # Models
 │ ├── dto/ # Data Transfer Objects
 │ ├── security/ # JWT & Security Config
-│ └── config/ # App Configuration
 │
 │── resources/
 │ ├── application.properties
